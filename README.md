@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=RunningYu" /> </div>
 <div align="center"> <img src="https://profile-counter.glitch.me/RunningYu/count.svg" /> </div>
-https://profile-counter.glitch.me/RunningYu/count.svg
+![Github Stats](https://github-readme-stats.vercel.app/api?username=coderfix-lab&show_icons=true&theme=dark&count_private=true)
+
