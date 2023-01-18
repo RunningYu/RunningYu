@@ -27,15 +27,23 @@ Here are some ideas to get you started:
 
 <!-- 技术标签 -->
 <div align="center"> 
-<span > <img src="https://img.shields.io/badge/-Springboot-E34F26?style=flat-square&logo=Springboot&logoColor=white" /> 
- <img src="https://img.shields.io/badge/-RabbitMq-1572B6?style=flat-square&logo=RabbitMq" /> 
- <img src="https://img.shields.io/badge/-Elasticsearch-oringe?style=flat-square&logo=Elasticsearch" /> 
+<span > <img src="https://img.shields.io/badge/-Netty-oringe?style=flat-square&logo=Netty" /> 
+ <img src="https://img.shields.io/badge/-nio-1572B6?style=flat-square&logo=nio" /> 
+ <img src="https://img.shields.io/badge/-RPC-oringe?style=flat-square&logo=RPC" /> 
  <img src="https://img.shields.io/badge/-Redis-1572B6?style=flat-square&logo=Redis" /> 
  <img src="https://img.shields.io/badge/-Sentinel-oringe?style=flat-square&logo=Sentinel" /> 
  
-  <img src="https://img.shields.io/badge/-Netty-oringe?style=flat-square&logo=Netty" /> 
+ <img src="https://img.shields.io/badge/-Netty-oringe?style=flat-square&logo=Netty" /> 
  <img src="https://img.shields.io/badge/-nio-1572B6?style=flat-square&logo=nio" /> 
  <img src="https://img.shields.io/badge/-RPC-oringe?style=flat-square&logo=RPC" /> 
+ 
+ <img src="https://img.shields.io/badge/-Minio-oringe?style=flat-square&logo=Minio" /> 
+ <img src="https://img.shields.io/badge/-JVM-1572B6?style=flat-square&logo=JVM" /> 
+ <img src="https://img.shields.io/badge/-JUC-oringe?style=flat-square&logo=JUC" /> 
+ 
+ <img src="https://img.shields.io/badge/-Docker-oringe?style=flat-square&logo=Docker" /> 
+ <img src="https://img.shields.io/badge/-JVM-1572B6?style=flat-square&logo=JVM" /> 
+ <img src="https://img.shields.io/badge/-设计模式-oringe?style=flat-square&logo=设计模式" /> 
  
  </span>
  </div>
