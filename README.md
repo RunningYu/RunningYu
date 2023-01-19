@@ -41,7 +41,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/-nio-1572B6?style=flat-square&logo=nio" /> 
  <img src="https://img.shields.io/badge/-RPC-oringe?style=flat-square&logo=RPC" /> 
  
- <img src="https://img.shields.io/badge/-Minio-oringe?style=flat-square&logo=Minio" /> 
+ <img src="https://img.shields.io/badge/-Min-oringe?style=flat-square&logo=MinIO" /> 
  <img src="https://img.shields.io/badge/-JVM-1572B6?style=flat-square&logo=JVM" /> 
  <img src="https://img.shields.io/badge/-JUC-oringe?style=flat-square&logo=JUC" /> 
  
