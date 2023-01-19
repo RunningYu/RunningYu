@@ -32,7 +32,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/-SpringCloud-1572B6?style=flat-square&logo=SpringCloud" /> 
  <img src="https://img.shields.io/badge/-Elasticsearch-oringe?style=flat-square&logo=Elasticsearch" /> 
  
- <img src="https://img.shields.io/badge/-RabbitMq-1572B6?style=flat-square&logo=RabbitMq" /> 
+ <img src="https://img.shields.io/badge/-RabbitMq-1572B6?style=flat-square&logo=RabbitMq" />
+ <img src="https://img.shields.io/badge/-Docker-oringe?style=flat-square&logo=Docker" /> 
  <img src="https://img.shields.io/badge/-Redis-1572B6?style=flat-square&logo=Redis" /> 
  <img src="https://img.shields.io/badge/-Sentinel-oringe?style=flat-square&logo=Sentinel" /> 
  
@@ -44,7 +45,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/-JVM-1572B6?style=flat-square&logo=JVM" /> 
  <img src="https://img.shields.io/badge/-JUC-oringe?style=flat-square&logo=JUC" /> 
  
- <img src="https://img.shields.io/badge/-Docker-oringe?style=flat-square&logo=Docker" /> 
  <img src="https://img.shields.io/badge/-Quartz-1572B6?style=flat-square&logo=Quartz" /> 
  <img src="https://img.shields.io/badge/-design_pattern-oringe?style=flat-square&logo=design_pattern" /> 
  
