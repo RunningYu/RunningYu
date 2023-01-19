@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- 访问者 -->
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=RunningYu" /> </div>
 <!-- 访问者 -->
-<!-- <div align="center"> <img src="https://profile-counter.glitch.me/RunningYu/count.svg" /> </div> -->
+<div align="center"> <img src="https://profile-counter.glitch.me/RunningYu/count.svg" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RunningYu&show_icons=true&theme=dark&count_private=true" /> </div>
 
 <!-- 技术标签 -->
