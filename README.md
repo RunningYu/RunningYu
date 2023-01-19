@@ -45,8 +45,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/-JUC-oringe?style=flat-square&logo=JUC" /> 
  
  <img src="https://img.shields.io/badge/-Docker-oringe?style=flat-square&logo=Docker" /> 
- <img src="https://img.shields.io/badge/-JVM-1572B6?style=flat-square&logo=JVM" /> 
- <img src="https://img.shields.io/badge/-设计模式-oringe?style=flat-square&logo=设计模式" /> 
+ <img src="https://img.shields.io/badge/-Quartz-1572B6?style=flat-square&logo=Quartz" /> 
+ <img src="https://img.shields.io/badge/-design-pattern-oringe?style=flat-square&logo=design-pattern" /> 
  
  </span>
  </div>
