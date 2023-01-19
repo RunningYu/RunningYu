@@ -46,7 +46,7 @@ Here are some ideas to get you started:
  
  <img src="https://img.shields.io/badge/-Docker-oringe?style=flat-square&logo=Docker" /> 
  <img src="https://img.shields.io/badge/-Quartz-1572B6?style=flat-square&logo=Quartz" /> 
- <img src="https://img.shields.io/badge/-design-pattern-oringe?style=flat-square&logo=design-pattern" /> 
+ <img src="https://img.shields.io/badge/-design_pattern-oringe?style=flat-square&logo=design_pattern" /> 
  
  </span>
  </div>
