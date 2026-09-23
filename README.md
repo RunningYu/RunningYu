@@ -20,13 +20,6 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/RunningYu?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
 
-
-<!-- 访问者 -->
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=RunningYu" /> </div>
-<!-- 访问者 -->
-<!-- <div align="center"> <img src="https://profile-counter.glitch.me/RunningYu/count.svg" /> </div> -->
-
-
 <!-- 技术标签 -->
 <div align="center"> 
 <span > 
